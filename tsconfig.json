@@ -1,0 +1,10 @@
+{
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"],
+  "compilerOptions": {
+    "target": "ES6",
+    "removeComments": true,
+    "sourceMap": true,
+    "outDir": "built"
+  }
+}
