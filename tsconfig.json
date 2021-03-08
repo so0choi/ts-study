@@ -4,7 +4,6 @@
   "compilerOptions": {
     "target": "ES6",
     "removeComments": true,
-    "sourceMap": true,
     "outDir": "built"
   }
 }
