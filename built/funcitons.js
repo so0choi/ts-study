@@ -22,4 +22,3 @@ function store(type) {
     }
 }
 const s = store("cannedFood");
-//# sourceMappingURL=funcitons.js.map

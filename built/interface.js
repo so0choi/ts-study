@@ -26,4 +26,3 @@ board[0].piece = {
         return true;
     },
 };
-//# sourceMappingURL=interface.js.map

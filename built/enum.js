@@ -16,4 +16,3 @@ function getDiscount(v) {
 }
 console.log(getDiscount(StarbucksGrade.WELCOME));
 console.log(StarbucksGrade);
-//# sourceMappingURL=enum.js.map

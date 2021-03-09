@@ -23,4 +23,3 @@ user1 = {
 };
 let tuple1;
 tuple1 = [1, "2"];
-//# sourceMappingURL=variables.js.map

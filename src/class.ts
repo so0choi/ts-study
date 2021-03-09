@@ -31,9 +31,9 @@ class PromotionCart extends Cart {
   }
 }
 
-const promoCart = new PromotionCart({ name: "julie" });
-promoCart.put();
-// instance - object
-const cart1 = new Cart({ name: "john" });
-cart1.put();
-const cart2 = new Cart({ name: "jay" });
+// const promoCart = new PromotionCart({ name: "julie" });
+// promoCart.put();
+// // instance - object
+// const cart1 = new Cart({ name: "john" });
+// cart1.put();
+// const cart2 = new Cart({ name: "jay" });
